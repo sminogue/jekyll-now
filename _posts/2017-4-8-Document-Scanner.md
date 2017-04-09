@@ -3,7 +3,7 @@ layout: post
 title: Simple Document Scanner in Java
 ---
 
-So recently in my travels I came across [Adrian Rosebrock's blog](http://www.pyimagesearch.com/), hes doing a lot of really interesting Computer Vision applications which I have enjoyed reading about. One of his posts was about creating a [simple document scanner in 5 minutes](http://www.pyimagesearch.com/2014/09/01/build-kick-ass-mobile-document-scanner-just-5-minutes/) caught my eye and captured my imagination. Right off, I'm not sure how an application written in Python using openCV is a "mobile" document scanner. But I digress, I did enjoy his post and I did get it working on my laptop. I had to tinker a bit as the post is written using openCV2 and the current is openCV3 which has some differences.
+So recently in my travels I came across [Adrian Rosebrock's blog](http://www.pyimagesearch.com/), hes doing a lot of really interesting Computer Vision applications which I have enjoyed reading about. One of his posts was about creating a [simple document scanner in 5 minutes](http://www.pyimagesearch.com/2014/09/01/build-kick-ass-mobile-document-scanner-just-5-minutes/) caught my eye and captured my imagination. I had to tinker a bit as the post is written using openCV2 and the current is openCV3 which has some differences.
 
 Being a Java developer I thought it would be fun to do a similar application in Java rather than python. I also didnt want to use openCV for my application. So here is my version of the quick (not mobile) document scanner in pure Java.
 
