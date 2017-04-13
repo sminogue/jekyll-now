@@ -215,3 +215,5 @@ ShowImages.showWindow(panel,"Document Scanning", true);
 And there it is! If everything has worked properly we should be left with just the document in the picture and it should be a nice clean black and white.
 
 Complete source for this can be found as a [gist on github](https://gist.github.com/sminogue/7bd865e9e46a9a2ab079c22af08d1c0d "gist on github").
+
+{% gist 7bd865e9e46a9a2ab079c22af08d1c0d %}
